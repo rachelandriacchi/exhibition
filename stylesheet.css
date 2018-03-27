@@ -1,0 +1,45 @@
+body {
+	background-color: #ff9999;
+}
+h1 {
+	color: #180026;
+	font-family: Gastromond;
+	text-align: center;
+}
+h2 {
+	color: #180026;
+	font-family: Gastromond;
+	text-align: center;
+}
+h3 {
+	color: #180026;
+	font-family: Gastromond;
+}
+p {
+	color: #180026;
+	font-family: Trebuchet MS;
+	text-align: center;
+}
+a {
+	text-align: center;
+	font-family: Trebuchet MS;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+div {
+-webkit-transition: 0.4s;	
+}
+
+.color:hover {
+	background: #C08AB4;
+}
+
+.grow:hover {
+-webkit-transform: scale(1.3);
+-ms-transform: scale(1.3);
+transform: scale(1.3);	
+}
